@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jmccall
+- 👋 Hi, I’m @Jmccall1
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on an internship
